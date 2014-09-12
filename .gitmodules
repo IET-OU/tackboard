@@ -1,0 +1,6 @@
+[submodule "tackboard-services"]
+	path = tackboard-services
+	url = https://github.com/the-open-university/tackboard-services.git
+[submodule "tackboard-ui"]
+	path = tackboard-ui
+	url = https://github.com/the-open-university/tackboard-ui.git
